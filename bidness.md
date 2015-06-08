@@ -8,7 +8,7 @@ In no particular initial order:
 - [Skitch](https://evernote.com/skitch/)
 - [HeidiSQL](http://www.heidisql.com/)
 - [SumatraPDF](http://www.sumatrapdfreader.org/)
-- 
+- [Tableau Public](https://public.tableau.com/s/)
 
 ## Gems, Packages, Scripts
 - Ruby (duh)
