@@ -21,7 +21,7 @@ In no particular initial order:
 - BitBucket (for private repos)
 - Wufoo
 - Confluence
-- Spritz / Readsy
+- [Spritz](http://www.spritzinc.com) / [Readsy](http://www.readsy.co/) - #GAMECHANGERS
 - UberConference
 - Timetrade / Doodle
 - HipChat / Slack
